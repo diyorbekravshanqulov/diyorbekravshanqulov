@@ -2,6 +2,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diyorbekravshanqulov&theme=cobalt2)
 <br></br>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=diyorbekravshanqulov&theme=cobalt2)
+<div style="width: 10px;"></div>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=diyorbekravshanqulov&theme=cobalt2)
 <br></br>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=diyorbekravshanqulov&theme=cobalt2)
