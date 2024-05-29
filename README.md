@@ -1,6 +1,6 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diyorbekravshanqulov&theme=cobalt2" alt="Profile Details" style="width: 100%;">
         <br><br>
-        <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
+        <div style="display: flex; gap:10; justify-content: space-between; margin-bottom: 20px;">
             <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=diyorbekravshanqulov&theme=cobalt2" alt="Repositories per Language" style="width: 49%;">
             <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=diyorbekravshanqulov&theme=cobalt2" alt="Most Commit Language" style="width: 49%;">
         </div>
