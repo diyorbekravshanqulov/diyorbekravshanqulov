@@ -1,3 +1,6 @@
+<h1 style="text-align:center">Hi there!</h1>
+
+
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diyorbekravshanqulov&theme=cobalt2" alt="Profile Details" style="width: 100%;">
         <br><br>
         <div style="display: flex; gap:10; justify-content: space-between; margin-bottom: 20px;">
