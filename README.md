@@ -1,4 +1,4 @@
-<h1 style="text-align:center">Hi there!</h1>
+<h1 style="display:flex;justify-content:center;align-items:center;">Hi there!</h1>
 
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diyorbekravshanqulov&theme=cobalt2" alt="Profile Details" style="width: 100%;">
